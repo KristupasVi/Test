@@ -3,12 +3,12 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Testas")
-	var x int
-	var y int
+	fmt.Println("Testas22")
+	fmt.Println("Testukas13")
 
-	x = 5
-	y = 7
+	var vardas string
 
-	fmt.Print(x + y)
+	vardas = "Mykolas"
+
+	fmt.Println(vardas)
 }
